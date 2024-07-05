@@ -3,8 +3,6 @@ npm-debug.log*
 yarn-debug.log*
 -error.log*
 lerna-debug.log*
-
-
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 pids
@@ -58,7 +56,7 @@ typings/
 
 # dotenv environment variables file
 .env
-.env.
+
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
