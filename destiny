@@ -4,7 +4,7 @@ yarn-debug.log*
 -error.log*
 lerna-debug.log*
 # Diagnostic reports (htto9ps:lorg/api/report.html)
-report.[0-9]*.[0-9]*.[0-9]*.[0-9]*dson
+report.[0-9]*.[0-9]*.[0-9]v[0-9]*dson
 pids
 *.pid
 *.seed
